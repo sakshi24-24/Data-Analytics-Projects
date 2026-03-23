@@ -1,0 +1,52 @@
+Key Insights from Your Dashboard
+
+🔴 Overall Attrition Rate: 51%
+
+More than half of employees left.
+
+Indicates serious retention issues.
+
+
+🏢 Department-wise Attrition
+
+IT and Finance show high attrition counts.
+
+HR shows comparatively lower exits.
+
+👉 Insight: Technical roles may face burnout or better external opportunities.
+
+
+💰 Salary Impact on Attrition
+
+Highest attrition occurs in lower salary bands.
+
+Employees earning below mid-range salaries leave more.
+
+👉 Insight: Compensation is a major retention factor.
+
+
+📈 Promotion Delay Impact
+
+Employees with long gaps since last promotion show higher attrition.
+
+Early-career stagnation leads to resignations.
+
+👉 Insight: Career growth is critical.
+
+
+😊 Job Satisfaction Impact
+
+Low satisfaction levels show higher attrition.
+
+Highly satisfied employees rarely leave.
+
+👉 Insight: Workplace environment strongly affects retention.
+
+
+⏱ Overtime Impact
+
+Employees working overtime show higher attrition.
+
+Work overload leads to burnout.
+
+👉 Insight: Work-life balance policies are needed.
