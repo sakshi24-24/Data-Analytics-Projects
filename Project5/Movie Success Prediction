@@ -1,0 +1,8 @@
+movie-success-analysis/
+│
+├── data/
+├── notebooks/
+│   └── analysis.ipynb
+├── visuals/
+├── README.md
+└── report.pdf
