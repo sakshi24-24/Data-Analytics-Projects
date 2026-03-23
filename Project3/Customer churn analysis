@@ -1,1 +1,52 @@
+# 📊 Telecom Customer Churn Analysis
 
+## 📌 Objective
+The goal of this project is to predict customer churn in the telecom industry and identify key factors influencing customer retention.
+
+## 🛠️ Tools & Technologies
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib
+
+## 📂 Dataset
+The dataset contains customer information such as usage patterns, services, and subscription details along with churn status.
+
+## ⚙️ Methodology
+
+1. Data Cleaning
+   - Handled missing values
+   - Verified churn column (already in 0/1 format)
+
+2. Data Preprocessing
+   - Converted categorical variables using one-hot encoding
+
+3. Model Building
+   - Logistic Regression model used for binary classification
+
+4. Evaluation
+   - Accuracy score
+   - Classification report
+   - Confusion matrix
+
+## 📊 Key Insights
+
+- Customers with shorter tenure are more likely to churn  
+- High monthly charges increase churn probability  
+- Customers with fewer subscribed services tend to leave  
+- Long-term contracts significantly reduce churn  
+
+## 💡 Business Recommendations
+
+- Offer retention incentives for high-risk customers  
+- Encourage long-term subscription plans  
+- Improve customer service for better satisfaction  
+- Target new users with onboarding benefits  
+
+## 📈 Results
+
+The model successfully predicts customer churn and helps identify key drivers behind customer behavior.
+
+## 🚀 Conclusion
+
+This project demonstrates how machine learning can be used to improve customer retention strategies in a competitive telecom environment.
